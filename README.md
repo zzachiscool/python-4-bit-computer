@@ -1,1 +1,1 @@
-this is not close to done, please feel free do take and mod it.
+very early on in this project. fork if you want.
