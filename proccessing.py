@@ -16,7 +16,6 @@ iTwo=2
 iThree=3
 while parsing:
     binary(tokensArray[iZero],tokensArray[iOne],tokensArray[iTwo],tokensArray[iThree])
-    print("working")
     iZero+=4
     iOne+=4
     iTwo+=4
@@ -25,3 +24,4 @@ while parsing:
         break
     else:
         continue
+
